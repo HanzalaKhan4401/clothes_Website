@@ -140,13 +140,13 @@ include('header.php');
                     <img src="img/promo-banner-1.jpg" alt="img">                    
                     <div class="aa-prom-content">
                       <span>75% Off</span>
-                      <h4><a href="#">For Women</a></h4>                      
+                      <h4><a href="#">For Man</a></h4>                      
                     </div>
                   </div>
                 </div>
               </div>
               <!-- promo right -->
-              <div class="col-md-7 no-padding">
+              <!-- <div class="col-md-7 no-padding">
                 <div class="aa-promo-right">
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
@@ -190,7 +190,7 @@ include('header.php');
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </section>
   <!-- / Promo section -->
   <!-- Products section -->
@@ -204,9 +204,9 @@ include('header.php');
                 <!-- start prduct navigation -->
                  <ul class="nav nav-tabs aa-products-tab">
                     <li class="active"><a href="#men" data-toggle="tab">Men</a></li>
-                    <li><a href="#women" data-toggle="tab">Women</a></li>
+                    <!-- <li><a href="#women" data-toggle="tab">Women</a></li>
                     <li><a href="#sports" data-toggle="tab">Sports</a></li>
-                    <li><a href="#electronics" data-toggle="tab">Electronics</a></li>
+                    <li><a href="#electronics" data-toggle="tab">Electronics</a></li> -->
                   </ul>
                   <!-- Tab panes -->
                   <div class="tab-content">

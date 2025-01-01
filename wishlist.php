@@ -95,7 +95,7 @@ include('header.php');
                         <th></th>
                         <th>Product</th>
                         <th>Price</th>
-                        <th>Stock Status</th>
+                        <th>Stock Status</th> 
                         <th></th>
                       </tr>
                     </thead>
